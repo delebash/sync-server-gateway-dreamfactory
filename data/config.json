@@ -1,0 +1,20 @@
+{
+  "logging": {
+    "errorLogFileName": "error.log",
+    "accessLogFileName": "access.log"
+  },
+  "server": {
+    "port": 3001,
+    "protocol": "http",
+    "requestSizeLimit": "100kb",
+    "https": {},
+    "cors": {}
+  },
+  "db": {
+    "connector": "NeDB",
+    "opts": {}
+  },
+  "sync": {
+    "partialsThreshold": 1000
+  }
+}
