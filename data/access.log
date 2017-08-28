@@ -1955,3 +1955,180 @@
 {"level":"info","message":"clientIdentity: 13, requestId: undefined","timestamp":"2017-08-28T14:44:24.003Z"}
 {"level":"info","message":"clientIdentity: 13, requestId: undefined","timestamp":"2017-08-28T14:44:34.155Z"}
 {"level":"info","message":"Server start","timestamp":"2017-08-28T16:29:57.383Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:33:25.098Z"}
+{"level":"info","message":"clientIdentity: 14, requestId: undefined","timestamp":"2017-08-28T16:33:33.139Z"}
+{"level":"info","message":"clientIdentity: 14, requestId: undefined","timestamp":"2017-08-28T16:33:43.330Z"}
+{"level":"info","message":"clientIdentity: 14, requestId: undefined","timestamp":"2017-08-28T16:33:53.575Z"}
+{"level":"info","message":"clientIdentity: 15, requestId: undefined","timestamp":"2017-08-28T16:34:03.630Z"}
+{"level":"info","message":"clientIdentity: 15, requestId: undefined","timestamp":"2017-08-28T16:34:13.765Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:36:49.486Z"}
+{"level":"info","message":"clientIdentity: 16, requestId: undefined","timestamp":"2017-08-28T16:37:30.275Z"}
+{"level":"info","message":"clientIdentity: 16, requestId: undefined","timestamp":"2017-08-28T16:37:40.447Z"}
+{"level":"info","message":"clientIdentity: 16, requestId: undefined","timestamp":"2017-08-28T16:44:11.139Z"}
+{"level":"info","message":"clientIdentity: 16, requestId: undefined","timestamp":"2017-08-28T16:44:21.361Z"}
+{"level":"info","message":"clientIdentity: 17, requestId: undefined","timestamp":"2017-08-28T16:44:23.442Z"}
+{"level":"info","message":"clientIdentity: 17, requestId: undefined","timestamp":"2017-08-28T16:44:33.549Z"}
+{"level":"info","message":"clientIdentity: 17, requestId: undefined","timestamp":"2017-08-28T16:44:43.741Z"}
+{"level":"info","message":"clientIdentity: 17, requestId: undefined","timestamp":"2017-08-28T16:44:53.886Z"}
+{"level":"info","message":"clientIdentity: 18, requestId: undefined","timestamp":"2017-08-28T16:44:57.007Z"}
+{"level":"info","message":"clientIdentity: 18, requestId: undefined","timestamp":"2017-08-28T16:45:07.140Z"}
+{"level":"info","message":"clientIdentity: 18, requestId: undefined","timestamp":"2017-08-28T16:45:17.357Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:45:32.298Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:46:10.215Z"}
+{"level":"info","message":"clientIdentity: 19, requestId: undefined","timestamp":"2017-08-28T16:46:14.563Z"}
+{"level":"info","message":"clientIdentity: 19, requestId: undefined","timestamp":"2017-08-28T16:46:24.755Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:52:49.692Z"}
+{"level":"info","message":"clientIdentity: 20, requestId: undefined","timestamp":"2017-08-28T16:53:03.389Z"}
+{"level":"info","message":"clientIdentity: 20, requestId: undefined","timestamp":"2017-08-28T16:53:13.538Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:54:02.336Z"}
+{"level":"info","message":"clientIdentity: 21, requestId: undefined","timestamp":"2017-08-28T16:54:06.678Z"}
+{"level":"info","message":"clientIdentity: 21, requestId: undefined","timestamp":"2017-08-28T16:54:16.853Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T16:55:51.635Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T16:55:56.779Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T16:56:06.908Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T17:16:48.322Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T17:17:07.487Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T17:17:17.649Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T17:23:02.677Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T17:23:41.336Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T17:23:54.899Z"}
+{"level":"info","message":"clientIdentity: 22, requestId: undefined","timestamp":"2017-08-28T17:24:42.100Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T17:25:17.357Z"}
+{"level":"info","message":"clientIdentity: 23, requestId: undefined","timestamp":"2017-08-28T17:25:22.806Z"}
+{"level":"info","message":"clientIdentity: 23, requestId: undefined","timestamp":"2017-08-28T17:25:32.954Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T17:26:01.016Z"}
+{"level":"info","message":"clientIdentity: 24, requestId: undefined","timestamp":"2017-08-28T17:26:23.604Z"}
+{"level":"info","message":"clientIdentity: 24, requestId: undefined","timestamp":"2017-08-28T17:26:33.777Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T17:29:05.530Z"}
+{"level":"info","message":"clientIdentity: 25, requestId: undefined","timestamp":"2017-08-28T17:29:30.053Z"}
+{"level":"info","message":"clientIdentity: 25, requestId: undefined","timestamp":"2017-08-28T17:29:40.198Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T19:59:40.071Z"}
+{"level":"info","message":"clientIdentity: 26, requestId: undefined","timestamp":"2017-08-28T20:00:37.725Z"}
+{"level":"error","message":"clientIdentity: 26. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:00:37.800Z"}
+{"level":"info","message":"clientIdentity: 27, requestId: undefined","timestamp":"2017-08-28T20:02:18.685Z"}
+{"level":"error","message":"clientIdentity: 27. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:02:18.745Z"}
+{"level":"info","message":"clientIdentity: 28, requestId: undefined","timestamp":"2017-08-28T20:02:38.288Z"}
+{"level":"error","message":"clientIdentity: 28. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:02:38.315Z"}
+{"level":"info","message":"clientIdentity: 29, requestId: undefined","timestamp":"2017-08-28T20:04:09.253Z"}
+{"level":"error","message":"clientIdentity: 29. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:04:09.334Z"}
+{"level":"info","message":"clientIdentity: 30, requestId: undefined","timestamp":"2017-08-28T20:05:28.436Z"}
+{"level":"error","message":"clientIdentity: 30. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:05:28.474Z"}
+{"level":"info","message":"clientIdentity: 25, requestId: undefined","timestamp":"2017-08-28T20:09:17.006Z"}
+{"level":"error","message":"clientIdentity: 25. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:09:17.082Z"}
+{"level":"info","message":"clientIdentity: 31, requestId: undefined","timestamp":"2017-08-28T20:09:25.911Z"}
+{"level":"error","message":"clientIdentity: 31. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:09:25.948Z"}
+{"level":"info","message":"clientIdentity: 32, requestId: undefined","timestamp":"2017-08-28T20:10:21.936Z"}
+{"level":"error","message":"clientIdentity: 32. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:10:21.975Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:10:53.617Z"}
+{"level":"info","message":"clientIdentity: 33, requestId: undefined","timestamp":"2017-08-28T20:11:30.992Z"}
+{"level":"error","message":"clientIdentity: 33. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:11:39.275Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:12:11.798Z"}
+{"level":"info","message":"clientIdentity: 34, requestId: undefined","timestamp":"2017-08-28T20:12:21.036Z"}
+{"level":"error","message":"clientIdentity: 34. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:12:26.120Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:19:40.031Z"}
+{"level":"info","message":"clientIdentity: 35, requestId: undefined","timestamp":"2017-08-28T20:21:06.120Z"}
+{"level":"error","message":"clientIdentity: 35. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:21:31.492Z"}
+{"level":"info","message":"clientIdentity: 36, requestId: undefined","timestamp":"2017-08-28T20:21:55.046Z"}
+{"level":"error","message":"clientIdentity: 36. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:22:14.897Z"}
+{"level":"info","message":"clientIdentity: 37, requestId: undefined","timestamp":"2017-08-28T20:22:27.885Z"}
+{"level":"error","message":"clientIdentity: 37. requestId: undefined. Error: TypeError Cannot read property 'reduce' of undefined TypeError: Cannot read property 'reduce' of undefined\n    at reduceChanges (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\reduce_changes.js:64:17)\n    at db.getChangesData.then (D:\\Development\\dexiejs\\sync-server-dreamfactory\\lib\\sync\\apply_client_changes.js:98:30)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","timestamp":"2017-08-28T20:23:34.145Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:41:34.760Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:43:10.289Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:45:23.595Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:45:37.377Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:46:59.175Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T20:48:16.503Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T20:48:26.701Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:50:22.333Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:50:48.542Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:51:04.460Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:52:14.535Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T20:56:24.370Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T21:00:06.263Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:00:24.630Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:00:34.788Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T21:01:11.837Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:01:21.977Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:01:32.637Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:02:24.771Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:02:34.915Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:02:45.039Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:02:55.156Z"}
+{"level":"info","message":"Server start","timestamp":"2017-08-28T21:02:59.944Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:03:05.298Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:03:25.732Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:03:35.856Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:03:45.987Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:03:56.117Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:04:06.244Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:04:16.384Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:04:26.579Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:04:36.725Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:04:46.859Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:04:56.989Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:05:07.126Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:05:17.275Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:05:27.406Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:05:37.547Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:05:47.690Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:05:57.835Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:06:07.955Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:06:18.097Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:06:28.271Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:06:38.421Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:06:48.549Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:06:58.680Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:07:08.803Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:07:18.936Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:07:29.050Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:07:39.209Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:07:49.312Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:07:59.447Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:08:09.610Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:08:19.736Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:08:29.877Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:08:39.977Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:08:50.173Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:09:00.299Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:09:10.435Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:09:20.555Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:09:30.691Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:09:40.813Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:09:50.938Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:10:01.061Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:10:11.194Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:10:21.314Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:10:31.444Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:10:41.591Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:10:51.762Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:11:01.882Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:11:12.016Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:11:22.130Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:11:32.265Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:11:42.395Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:11:52.561Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:12:02.726Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:12:12.840Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:12:22.994Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:12:33.123Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:12:43.270Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:12:53.427Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:13:03.567Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:13:13.699Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:13:23.820Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:13:33.967Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:13:44.096Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:13:54.252Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:14:04.389Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:14:14.529Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:14:24.662Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:14:34.803Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:14:44.941Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:14:55.107Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:15:05.236Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:15:15.373Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:15:25.511Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:15:35.654Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:15:45.770Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:15:55.899Z"}
+{"level":"info","message":"clientIdentity: 38, requestId: undefined","timestamp":"2017-08-28T21:16:05.989Z"}
