@@ -7,7 +7,6 @@
     "sync-server": "^2.0.0-beta.4"
   },
   "dependencies": {
-    "json-query": "^2.2.2",
     "request": "^2.81.0",
     "request-debug": "^0.2.0",
     "request-promise-native": "^1.0.4"
